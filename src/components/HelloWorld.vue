@@ -80,7 +80,7 @@ export default {
     return {};
   },
   mounted() {
-    const hello = "say hello";
+    const hello = "say hello world yes";
     console.log(hello) 
   }
 };
